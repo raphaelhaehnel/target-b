@@ -8,11 +8,13 @@ Target-B is a project from the Hebrew university of Jerusalem, made by two stude
 
 This is the main window of the program
 
-![mainwindow](https://user-images.githubusercontent.com/69756617/207133909-b911dd4f-c48a-4135-a9c4-31ecbcb697e5.png)
+![mainwindow](https://user-images.githubusercontent.com/69756617/207135927-f3a22cb2-5cf5-44b5-bc76-adf4b824263d.png)
+
 
 On this window you can define the differents parameters for the electromagnets
 
-![parameters](https://user-images.githubusercontent.com/69756617/207133914-765b65a3-a818-444d-b6b9-6198bc570fc9.jpg)
+![parameters](https://user-images.githubusercontent.com/69756617/207135932-272774eb-b701-43d2-a019-7c5c4cc391f2.jpg)
+
 
 
 #### updates log
