@@ -13,10 +13,10 @@ This is the main window of the program
 
 On this window you can define the differents parameters for the electromagnets
 
-![parameters](https://user-images.githubusercontent.com/69756617/207135932-272774eb-b701-43d2-a019-7c5c4cc391f2.jpg)
-
+![parameters](https://user-images.githubusercontent.com/69756617/207139507-4ffa3687-1687-4003-87f8-67ed1e39de06.png)
 
 
 #### updates log
 18.05.2020 - first update
+
 12.12.2022 - readme updated
