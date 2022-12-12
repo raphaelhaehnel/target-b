@@ -1,0 +1,50 @@
+Hello !!!!
+
+
+#######################################################
+There are still problems:
+1) An High resolution image work very bad (less than HD 
+   for sure !).
+2) To make an siple shapes and not very diffecult.
+3) And much more ! :)
+
+#######################################################
+To get current and magnetic field that we want we need
+to do the following steps before :
+
+1) press Upload Image
+2) press Redifine points (follow the instractions)
+3) press Display Image
+4) check the checkbox of "Magnetic filed" and set a value
+   of the order 10^-6 Tesla.
+5) Then to press COMPUTE.
+
+Only after those steps we can get the current and magnetic 
+field of each coil. To access those parameters you can
+write the following code :
+
+#######################
+To get the needed current for both coils:
+
+self.calculation_of_B.get_I_coil1()
+self.calculation_of_B.get_I_coil2()
+
+This is what you need to write to get the currents
+in class "mainWindow.py".
+#######################
+To get the needed magnetic field for both coils:
+
+self.calculation_of_B.get_B_coil1()
+self.calculation_of_B.get_B_coil2()
+
+This is what you need to write to get the currents
+in class "mainWindow.py".
+#######################
+
+NOTE :
+The number are very long (example : 1.099999999999 and not 1.1) !
+it may be a problem so I used :
+f'{self.calculation_of_B.get_I_coil1():.4f}'
+to get up to 4 digit after the point . .
+
+#######################################################
