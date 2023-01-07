@@ -30,9 +30,11 @@ Bellow, the schematic of the circuit we build to control the electromagnets. The
 
 ![circuit_schematic](https://user-images.githubusercontent.com/69756617/211169716-2d81b760-e7f6-4d58-947c-b6ec2a8daf05.png)
 
+<img src="https://user-images.githubusercontent.com/69756617/211169716-2d81b760-e7f6-4d58-947c-b6ec2a8daf05.png" width="200" height="400" />
+
 We used NMOS power transistors to control the power on the electromagnets. MOSFET transistors with their heat sink
 
-![image](https://user-images.githubusercontent.com/69756617/211169973-ee6498af-5eee-46d9-ab77-fc78d32cb4e5.png | width=100px )
+![image](https://user-images.githubusercontent.com/69756617/211169973-ee6498af-5eee-46d9-ab77-fc78d32cb4e5.png)
 
 
 
