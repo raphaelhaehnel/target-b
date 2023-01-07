@@ -32,7 +32,7 @@ Bellow, the schematic of the circuit we build to control the electromagnets. The
 
 We used NMOS power transistors to control the power on the electromagnets. MOSFET transistors with their heat sink
 
-![image](https://user-images.githubusercontent.com/69756617/211169973-ee6498af-5eee-46d9-ab77-fc78d32cb4e5.png | width=100)
+![image](https://user-images.githubusercontent.com/69756617/211169973-ee6498af-5eee-46d9-ab77-fc78d32cb4e5.png | width=100px )
 
 
 
