@@ -5,6 +5,12 @@
 Target-B is a project from the Hebrew university of Jerusalem, made by two students for their engineering project. It has been carried out with the collaboration of the professor Nadav Katz from the Hebrew university, and Yoav Mintz, from Hadassah Ein Karem. It uses principles of electromagnetism and it is designed for a medical purpose.
 Our idea, and the objective of the project is to treat the patient’s tumor with localized and non-destructive treatment. For that purpose, we had to deal with electromagnets instead of simple magnets. We constructed a prototype controlled by a micro controller Arduino, and the Arduino is controlled by a software that we developed. The software sends to the Arduino the data, like frequency and power, and the Arduino controls the electronic system which activates the electromagnets.
 
+- Project website: https://targetb.wordpress.com/
+- Presentation video: https://youtu.be/a6feZAbdhC0
+- Experiment video: https://youtu.be/NnRVpnlX9iE
+- Electromagnets demo: https://youtu.be/1jpI8D4voAA
+- GitHub repository: https://github.com/HUJI-T610/TargetB/
+
 System diagram of the project
 
 ![image](https://user-images.githubusercontent.com/69756617/211169838-2ba0407d-f7e7-4302-afd0-f9e7417e5153.png)
