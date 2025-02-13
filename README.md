@@ -34,7 +34,9 @@ We used NMOS power transistors to control the power on the electromagnets. MOSFE
 
 ![image](https://user-images.githubusercontent.com/69756617/211169973-ee6498af-5eee-46d9-ab77-fc78d32cb4e5.png)
 
+We used home-made coils as electromagnets
 
+![coils_transparent-carré](https://github.com/user-attachments/assets/9cee6fc7-10b8-45da-8ed0-a38c298308db)
 
 #### updates log
 18.05.2020 - first update
