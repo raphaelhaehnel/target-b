@@ -44,7 +44,7 @@ We used home-made coils as electromagnets
 
 <img src="https://github.com/user-attachments/assets/9cee6fc7-10b8-45da-8ed0-a38c298308db" alt="coils_transparent-carré" width="300"/>
 
-#### updates log
-18.05.2020 - first update
-
-12.12.2022 - readme updated
+#### Updates
+> 18.05.2020 - creation of the repo
+> 12.12.2022 - readme update
+> 17.02.2025 - readme update
