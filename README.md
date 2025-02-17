@@ -46,5 +46,7 @@ We used home-made coils as electromagnets
 
 #### Updates
 > 18.05.2020 - creation of the repo
+
 > 12.12.2022 - readme update
+
 > 17.02.2025 - readme update
